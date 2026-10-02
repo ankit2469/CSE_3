@@ -1,2 +1,2 @@
 # CSE_3
-html coding
+html codings
